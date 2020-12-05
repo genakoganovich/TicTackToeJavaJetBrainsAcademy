@@ -80,8 +80,21 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/projects/48/stages/255/implement#comment
-status: Solved
+status: Failed
 feedback:
-  message: Congratulations!
-  time: Sat, 05 Dec 2020 17:33:39 UTC
-record: -1
+  message: |-
+    Wrong answer in test #1
+
+    You need to output no more than 9 symbols not counting spaces
+
+    Please find below the output of your program during this failed test.
+
+    ---
+
+    ---------
+    X O X
+    O X O
+    X X O
+    ---------
+  time: Sat, 05 Dec 2020 17:38:44 UTC
+record: 1
